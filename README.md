@@ -33,7 +33,10 @@
   N/A
 
   ## Link to project
-  https://github.com/Cantalorian/budget-tracker
+  Repository:
+  https://github.com/Cantalorian/budget-tracker   
+  Live URL:
+  https://still-meadow-02494.herokuapp.com/
 
   ## Questions
   'For any questions regarding this project, I can be reached at <a href="https://github.com/Cantalorian">Cantalorian</a> on github. Or email me at Chewie1985@gmail.com'
